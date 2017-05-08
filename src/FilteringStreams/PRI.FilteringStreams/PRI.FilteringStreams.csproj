@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.4</TargetFramework>
+    <Authors>Peter Ritchie</Authors>
+    <Company />
+    <Product>RegexStream</Product>
+    <PackageId>RegexStream</PackageId>
+    <Copyright>Copyright © Peter Ritchie 2017</Copyright>
+    <PackageLicenseUrl>https://raw.githubusercontent.com/peteraritchie/RegexStream/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/peteraritchie/RegexStream</PackageProjectUrl>
+    <Description>A stream filter that perform regular expression replacements.</Description>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+</Project>
